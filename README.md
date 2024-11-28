@@ -1,6 +1,6 @@
 # Dockerized Qtap environment
 
-If you do not have docker on your machine, please follow steps in here [Docker Setup](./README.md)
+If you do not have docker on your machine, please follow steps in here [Docker Setup](./DOCKER_SETUP.md)
 
 ## Setting Up Environment
 

@@ -1,6 +1,7 @@
 # Docker setup
 
 [Setup for MAC](#docker-on-macos)
+
 [Setup for Windows](#docker-on-windows)
 
 ## Docker on macOS
@@ -89,7 +90,9 @@ This command will download a test image and run it, showing a message that confi
 ### Further reading on docker
 
 [Getting Started](https://docs.docker.com/get-started/)
+
 [What is Docker](https://docs.docker.com/get-started/docker-overview/)
 
-I haven't used this, but it looks nice:
+I haven't used this, but it looks nice too:
+
 [Docker Curriculum](https://docker-curriculum.com/)
