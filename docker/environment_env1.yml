@@ -1,0 +1,20 @@
+name: my_env1
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - jupyter
+  - ipykernel
+  - matplotlib
+  - pytorch
+  - torchvision
+  - numba
+  - scikit-learn
+  - folium
+  - qiskit
+  - pylatexenc
