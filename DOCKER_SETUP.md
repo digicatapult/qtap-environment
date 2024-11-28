@@ -4,7 +4,7 @@
 
 [Setup for Windows](#docker-on-windows)
 
-## Docker on macOS
+## Docker on macOS
 
 Follow the steps below to install and configure Docker on macOS:
 
