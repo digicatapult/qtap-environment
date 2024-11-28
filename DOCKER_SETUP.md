@@ -90,7 +90,7 @@ docker run hello-world
 
 This command will download a test image and run it, showing a message that confirms Docker is running properly.
 
-### Further reading on docker
+## Further reading on docker
 
 [Getting Started](https://docs.docker.com/get-started/)
 
